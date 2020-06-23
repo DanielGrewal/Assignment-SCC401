@@ -12,10 +12,8 @@ and functions as well as save several plots to files in your working
 directory. The R console will show warning messages when being sourced,
 these can be ignored.
 
-For more info, contact Daniel Grewal 31505290,
-<d.danielgrewal@lancaster.ac.uk>
 
-This project can be imported from gitHub by the following steps:
+This project can be imported from GitHub by the following steps:
 
 1. Open Eclipse - File - Import - Git -> ’Projects from Git’ -> ’Clone URI’
 2. Clone the following URI https://github.com/DanielGrewal/Assignment-SCC401
